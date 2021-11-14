@@ -1,10 +1,10 @@
 # Image_Generator
 
-Install:
-pip install streamlit
-pip install opencv-python
-pip install imgaug
+Install:<br />
+pip install streamlit<br />
+pip install opencv-python<br />
+pip install imgaug<br />
 
 
-To run:
-streamlit run interface.py
+To run:<br />
+streamlit run interface.py<br />
